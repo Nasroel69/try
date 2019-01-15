@@ -99,14 +99,14 @@ print $execute;
         <div class="col-md-4">
             <div class="formBom">
                 <div class="headerForm">
-                    <h2 class="text-center">BOM SMS TELKOMSEL V2</h2>
+                    <h2 class="text-center">BOM SMS TELKOMSEL UNLIMITED</h2>
                 </div>
                 <div class="formBody">
-                   <div class="alert alert-info"><strong>Bom SMS TELKOMSEL V2</strong>
+                   <div class="alert alert-info"><strong>BOM SMS TELKOMSEL UNLIMITED</strong>
     <br>- Khusus untuk Telkomsel
     <br>- Isi semua input dengan benar
     <br>- Gunakan dengan bijak
-    <br>@ Created By Anonimcyber
+    <br>@ Created By Ferguso Kontoloso
     </div>
   
     <form method="POST" action="index.php">
@@ -126,16 +126,7 @@ print $execute;
                     </form>
                 
                     <br><br>
-                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- AdSense 1 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-6368709975044652"
-     data-ad-slot="1527555893"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+                    
 </body> </html>
 <?php
 
