@@ -185,46 +185,7 @@ cursor:wait;
 }
 </style>
 
-    <div class="container">
-        <div class="col-md-4"></div>
-        <div class="col-md-4">
-            <div class="formBom">
-                <div class="headerForm">
-                    <h2 class="text-center">BOM SMS</h2>
-                </div>
-                <div class="formBody">
-                    <p class="text-center">Gunakan dengan bijak!</p>
-                    <form method="POST" action="index.php">
-                      <div class="form-group">
-                        <label for="exampleInputEmail1"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> No Telp</label>
-                        <input type="text" class="form-control" name="nomer" id="exampleInputEmail1" placeholder="Nomor telepon (ex: 0858xxxxxx)">
-                      </div>
-                      <div class="form-group">
-                        <label for="exampleInputPassword1">Jumlah SMS</label>
-                        <input type="text" class="form-control" name="jumlah" id="exampleInputPassword1" placeholder="Jumlah (1 - 99999)">
-                      </div>
-                      
-                      <button type="submit" class="btn" name="BOM">BOM !</button>
-                    </form>
-                    <?php if (isset($_GET["success-bomb"])) {
-                        echo "<p class='text-center' style='color:red'>SMS Terkirim!</p>";
-                    } ?>
-                    <br><br>
-                    <center>
-                    <font style="-webkit-text-stroke: 2px red;" size="4" color="red" face="Iceland"  >~ Rules SMS BOM JD.ID ~</font></center>
-                     <br>
-                    <center><b>1.Pergunakan dengan baik
-                    </br>2.Tanggung jawab masing masing !
-                    </br>3.BOM Nomor Penipu / Ripper
-                    </br>4.Jangan di salah gunakan
-                    </br>[ <a href='https://santet.me'><font color="red">Download Script</a><font color="yellow" ]</b>
-                    <div><br>
-                         
-                         
-            </div>
-        </div>
-        <div class="col-md-4"></div>
-    </div>
+
 </body> </html>
 <?php
 
